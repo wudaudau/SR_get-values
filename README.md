@@ -15,11 +15,11 @@ to get certain values from txt files
 <img src="img/img01.png">
 
 3. Upload txt files in to the `files` folder
-  i. Click on the `files` folder
-  ii. On the up-right of the screen, click [Upload] Button to add all txt files.
-  iii. Wait till all files have been uploaded.
+  1. Click on the `files` folder
+  2. On the up-right of the screen, click [Upload] Button to add all txt files.
+  3. Wait till all files have been uploaded.
 4. Run the script in the `get values.ipynb`
-  i. Go back to the main directory by clicking the folder icon around the up-left conor.
-  ii. Click on the `get values.ipynb` to open it
-  iii. Run all the cells by clicking on the tool bar: `Cell/Run all cee`
-  iv. The result should be found in the end of the file.
+  1. Go back to the main directory by clicking the folder icon around the up-left conor.
+  2. Click on the `get values.ipynb` to open it
+  3. Run all the cells by clicking on the tool bar: `Cell/Run all cee`
+  4. The result should be found in the end of the file.
