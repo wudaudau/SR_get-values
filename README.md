@@ -10,7 +10,7 @@ to get certain values from txt files
 ## Steps
 
 1. Start the server via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wudaudau/SR_get-values/main)
-2. 
+
 3. Wait till the server is ready.
 
 <img src="img/img01.png">
@@ -19,10 +19,10 @@ to get certain values from txt files
   1. Click on the `files` folder
   1. On the up-right of the screen, click [Upload] Button to add all txt files.
   1. Wait till all files have been uploaded.
-  2. 
+   
 1. Run the script in the `get values.ipynb`
   1. Go back to the main directory by clicking the folder icon around the up-left conor.
   1. Click on the `get values.ipynb` to open it
   1. Run all the cells by clicking on the tool bar: `Cell/Run all cee`
   1. The result should be found in the end of the file.
-  2. 
+   
