@@ -9,6 +9,12 @@ to get certain values from txt files
 
 ## Steps
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
 1. Start the server via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wudaudau/SR_get-values/main)
 2. Wait till the server is ready.
 
