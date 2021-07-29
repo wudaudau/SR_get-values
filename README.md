@@ -8,10 +8,10 @@ to get certain values from txt files
 
 ## Steps
 1. Start the server via [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wudaudau/SR_get-values/main)
-<img src="img/img01.png">
-![alt text](./img/img01.png)
-
 2. Wait till the server is ready.
+
+<img src="img/img01.png">
+
 3. Upload txt files in to the `files` folder
   1. Click on the `files` folder
   2. On the up-right of the screen, click [Upload] Button to add all txt files.
